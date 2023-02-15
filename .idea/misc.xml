@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2797427652733119" />
+        <entry key="app/src/main/res/layout/activity_native_ad.xml" value="0.17708333333333334" />
+        <entry key="app/src/main/res/layout/googleadmobnative.xml" value="0.10572916666666667" />
+        <entry key="app/src/main/res/layout/native_ad_admob.xml" value="0.17708333333333334" />
+        <entry key="app/src/main/res/layout/nativeadlayout.xml" value="0.17708333333333334" />
+        <entry key="app/src/main/res/layout/nativeadlayoutbanner.xml" value="0.17708333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
